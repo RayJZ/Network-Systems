@@ -1,0 +1,6 @@
+--2023-04-21 17:56:14--  http://netsys.cs.colorado.edu/
+Resolving netsys.cs.colorado.edu (netsys.cs.colorado.edu)... 198.59.7.17
+Connecting to netsys.cs.colorado.edu (netsys.cs.colorado.edu)|198.59.7.17|:80... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘netsys.cs.colorado.edu/index.html’ not modified on server. Omitting download.
+

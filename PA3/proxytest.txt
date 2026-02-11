@@ -1,0 +1,120 @@
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/index.html’.
+You might want to add --no-if-modified-since option.
+
+Loading robots.txt; please ignore errors.
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/robots.txt
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 404 Not Found
+2023-04-21 17:56:00 ERROR 404: Not Found.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/graphics/html.gif
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/graphics/html.gif’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/jquery-1.4.3.min.js
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/jquery-1.4.3.min.js’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/fancybox/jquery.mousewheel-3.0.4.pack.js
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/fancybox/jquery.mousewheel-3.0.4.pack.js’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/fancybox/jquery.fancybox-1.3.4.pack.js
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/fancybox/jquery.fancybox-1.3.4.pack.js’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/fancybox/jquery.fancybox-1.3.4.css
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/fancybox/jquery.fancybox-1.3.4.css’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/css/style.css
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/css/style.css’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/images/wine3.jpg
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/images/wine3.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/images/apple_ex.png
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/images/apple_ex.png’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/images/exam.gif
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/images/exam.gif’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/files/text1.txt
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/files/text1.txt’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/graphics/mov.gif
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/graphics/mov.gif’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/graphics/pdf.gif
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/graphics/pdf.gif’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/graphics/txt.gif
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/graphics/txt.gif’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/fancybox/fancybox.png
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/fancybox/fancybox.png’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:00--  http://netsys.cs.colorado.edu/fancybox/blank.gif
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/fancybox/blank.gif’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:01--  http://netsys.cs.colorado.edu/fancybox/fancybox-x.png
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/fancybox/fancybox-x.png’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:01--  http://netsys.cs.colorado.edu/fancybox/fancybox-y.png
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/fancybox/fancybox-y.png’.
+You might want to add --no-if-modified-since option.
+
+--2023-04-21 17:56:01--  http://netsys.cs.colorado.edu/fancybox/fancy_title_over.png
+Connecting to 127.0.0.1:8888... connected.
+Proxy request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘netsys.cs.colorado.edu/fancybox/fancy_title_over.png’.
+You might want to add --no-if-modified-since option.
+
